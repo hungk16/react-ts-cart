@@ -3,6 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Demo: https://wizardly-tereshkova-4d86d3.netlify.app/
+
+## UI
+
+![Client](public/UI.png)
+
+![](public/UI2.png)
 ## Available Scripts
 
 In the project directory, you can run:
